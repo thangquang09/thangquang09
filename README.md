@@ -1,6 +1,12 @@
 ## About Me
 
-I am a motivated third-year Data Science student at VNU-HCM University of Science, combining rigorous training in Mathematics and Computer Science with a specialized focus on data-driven technologies. My primary passions lie at the intersection of Machine Learning, AI Engineering, and Data Engineering. I am actively honing my technical skills through coursework and personal projects, focusing on practical application and robust solutions. Seeking opportunities to learn from industry professionals and contribute to impactful work in the AI/ML and data domains.
+I'm an AI Inference Engineer at GreenNode (VNG), where I work on serving LLMs in production: making them faster, cheaper, and easier to scale.
+
+Most of my recent work is on **speculative decoding** in [SGLang](https://github.com/sgl-project/sglang): adaptive speculation, draft KV-cache budgeting, and MTP/EAGLE-style drafts.
+
+- 🔭 Working on: LLM inference optimization (SGLang, vLLM, NVIDIA Dynamo)
+- 🌱 Interested in: speculative decoding, KV cache, GPU kernels, serving at scale
+- 🎓 Background: Data Science (Mathematics & Computer Science), VNU-HCM University of Science
 
 ## Connect with Me
 
